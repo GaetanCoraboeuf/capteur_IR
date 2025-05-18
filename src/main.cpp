@@ -41,7 +41,7 @@ void loop() {
 
     // Envoi HTTP POST
     HTTPClient http;
-    String url = String(influxHost) + "/write?db=" + influxDb + "&precision=s";
+    String url = String(influxHost) + "write?db=" + influxDb + "&precision=s";
     http.begin(url);
     http.addHeader("Content-Type", "text/plain");
     int code = http.POST(lp);
