@@ -3,9 +3,9 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-// Remplace par tes infos Wi-Fi
-const char* ssid     = "DESKTOP-ANC 5206";
-const char* password = "motdepasse";
+#include <wifi_credentials.h> //fichier contenant les identifiants Wi-Fi
+
+
 
 // Adresse et DB Influx
 const char* influxHost = "http://192.168.1.137:8086/";
