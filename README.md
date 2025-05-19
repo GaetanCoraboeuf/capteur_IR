@@ -1,4 +1,5 @@
 # capteur_IR
+
 Le but de ce projet est de concevoir un capteur de détecton de mouvement par infrarouge. Cette solution est modulable et scalable en plus de son coût de fabrication faible.
 
 ## Table des Matières
@@ -20,7 +21,12 @@ Ce projet a été fait par des étudiants.
 
 La carte électronique est conçu pour être un sheld pour une Esp32 devkit V1.
 
+![Schéma élec](hardware/CAO/schéma.png)
+
+![rendu carte fini](hardware/3D/image.png)
+
 ## Software
+
 
 ## Contributeurs
 
