@@ -1,5 +1,5 @@
 # capteur_IR
-Le but de ce projet est de concevoire un capteur de détecton de mouvement par infrarouge. Cette solution est modulable et scalable en plus de son coût de fabrication faible.
+Le but de ce projet est de concevoir un capteur de détecton de mouvement par infrarouge. Cette solution est modulable et scalable en plus de son coût de fabrication faible.
 
 ## Table des Matières
 
@@ -11,8 +11,8 @@ Le but de ce projet est de concevoire un capteur de détecton de mouvement par i
 ## Description
 
 Il est compsé de deux grande parties:
-    - L'électronique (esp32 + capteur IR LHI968)
-    - Et le software (code C++ + dashbord avec base de données)
+    - Electronique (esp32 + capteur IR LHI968)
+    - Software (code C++ + dashbord avec base de données)
 
 Ce projet a été fait par des étudiants.
 
