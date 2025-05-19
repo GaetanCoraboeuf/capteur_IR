@@ -24,8 +24,8 @@ La carte électronique est conçu pour être un sheld pour une Esp32 devkit V1.
 
 ## Contributeurs
 
-Ambroise Nedey-Crétaz␠␠
+Ambroise Nedey-Crétaz <br />
 Gaëtan Corabœuf
 
-Sur la proposition de :␠␠
+Sur la proposition de : <br />
 M.Dumas
