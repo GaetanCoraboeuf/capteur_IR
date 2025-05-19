@@ -11,8 +11,8 @@ Le but de ce projet est de concevoir un capteur de détecton de mouvement par in
 ## Description
 
 Il est compsé de deux grande parties:
-    - Electronique (esp32 + capteur IR LHI968)
-    - Software (code C++ + dashbord avec base de données)
+ - Electronique (esp32 + capteur IR LHI968)
+ - Software (code C++ + dashbord avec base de données)
 
 Ce projet a été fait par des étudiants.
 
@@ -24,8 +24,8 @@ La carte électronique est conçu pour être un sheld pour une Esp32 devkit V1.
 
 ## Contributeurs
 
-Ambroise Nedey-Crétaz
+Ambroise Nedey-Crétaz␠␠
 Gaëtan Corabœuf
 
-Sur la proposition de :
+Sur la proposition de :␠␠
 M.Dumas
