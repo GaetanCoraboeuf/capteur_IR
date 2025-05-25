@@ -42,6 +42,7 @@ Ce code envoi simplement la tesion du capteur toutes les 100ms à la base de don
 ## Boitier
 
 Nous avons aussi conçu un boitier pour le capteur. Il est imprimé en 3D et permet d'intégrer tous les composants de manière esthétique et fonctionnelle. (merci à BHP pour la conception du boitier)
+
 ![boitier](hardware/boitier/boitier.jpg)
 ![boitier ouvert](hardware/boitier/boitier_ouvert.jpg)
 
