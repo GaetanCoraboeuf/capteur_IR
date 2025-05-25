@@ -8,8 +8,8 @@
 
 
 // Adresse et DB Influx
-const char* influxHost = "http://192.168.1.137:8086/";
-const char* influxDb   = "mesure_iot";
+const char* influxHost = "http://192.168.1.137:8086/"; // Assure-toi que l'adresse IP correspond à ton serveur InfluxDB
+const char* influxDb   = "mesure_iot"; // Nom de la base de données InfluxDB
 
 // Broche analogique du capteur PIR
 const int pirPin = 14;
