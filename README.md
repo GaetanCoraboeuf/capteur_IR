@@ -48,13 +48,13 @@ Nous avons aussi conçu un boitier pour le capteur. Il est imprimé en 3D et per
 
 ## Évolutions
 
-    - [x] Remplacement du convertiseur boost par une pile 9V (ce convertiseur n'est pas recomandé)
-    - [ ] Lecture de la tesion de batterie avec un pont diviseur
-    - [ ] Scan des periphérique Bluethooth à proximité (distinction autorisé/non-autorisé)
-    - [ ] Detection sonore, bruit ambiant
-    - [ ] Camera avec integration IA (OpenCV)
-    - [ ] Utiliser l'horloge temps réel de l'esp32 pour horodater les valeurs grace à un serveur de temps (plus précis)
-    - [ ] Mettre en place un buffer en cas de coupure de connection pour ne pas perdre de valeurs
+- [x] Remplacement du convertiseur boost par une pile 9V (ce convertiseur n'est pas recomandé)
+- [ ] Lecture de la tesion de batterie avec un pont diviseur
+- [ ] Scan des periphérique Bluethooth à proximité (distinction autorisé/non-autorisé)
+- [ ] Detection sonore, bruit ambiant
+- [ ] Camera avec integration IA (OpenCV)
+- [ ] Utiliser l'horloge temps réel de l'esp32 pour horodater les valeurs grace à un serveur de temps (plus précis)
+- [ ] Mettre en place un buffer en cas de coupure de connection pour ne pas perdre de valeurs
 
 ## Contributeurs
 
